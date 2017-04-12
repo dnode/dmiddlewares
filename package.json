@@ -1,0 +1,21 @@
+{
+  "name": "dmiddlewares",
+  "version": "1.0.0",
+  "description": "Register all given middlewares at the given app",
+  "license": "MIT",
+  "homepage": "http://github.com/dnode/dmiddlewares",
+  "author": {
+    "name": "Sharaal",
+    "email": "developer@dragonprojects.de",
+    "url": "http://dragonprojects.de"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dnode/dmiddlewares.git"
+  },
+  "readmeFilename": "README.md",
+  "main": "src/lib.js",
+  "dependencies": {
+    "dhandler": "^1.0.0"
+  }
+}
