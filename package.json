@@ -1,6 +1,6 @@
 {
   "name": "dmiddlewares",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Register all given middlewares at the given app",
   "license": "MIT",
   "homepage": "http://github.com/dnode/dmiddlewares",

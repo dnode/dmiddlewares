@@ -3,6 +3,9 @@
 const dhandler = require('./dhandler');
 
 module.exports = (app, middlewares) => {
+  if (!Array.isArray(middlewares)) {
+    middlewares = [middlewares];
+  }
   middlewares.map((middlewares) => {
     if (!Array.isArray(middlewares)) {
       middlewares = [middlewares];
