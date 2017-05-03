@@ -1,6 +1,6 @@
 {
   "name": "dmiddlewares",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Register all given middlewares at the given app",
   "license": "MIT",
   "homepage": "http://github.com/dnode/dmiddlewares",
@@ -16,6 +16,6 @@
   "readmeFilename": "README.md",
   "main": "src/lib.js",
   "dependencies": {
-    "dhandler": "^1.0.0"
+    "dhandler": "^1.0.1"
   }
 }
