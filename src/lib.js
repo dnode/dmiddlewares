@@ -1,6 +1,6 @@
 'use strict';
 
-const dhandler = require('./dhandler');
+const dhandler = require('dhandler');
 
 module.exports = (app, middlewares) => {
   middlewares.map(middlewares => {
